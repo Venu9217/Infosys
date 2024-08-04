@@ -69,7 +69,7 @@ This project is developed for demo purpose and it's not supposed to be used in r
 
 ## Feedback
 Any suggestion and feedback is welcome. You can message me on linkedin or through mail
-- Connect on linedin:https://www.linkedin.com/in/venukumar5/
+- Connect on linkedin:https://www.linkedin.com/in/venukumar5/
 - contact through mail :bathinenivenukumar33@gmail.com
   
    
